@@ -12,6 +12,7 @@ function getLatest {
   # go to the out directory and create a *new* Git repo
   cd original
   git clone https://${GH_TOKEN}@github.com/imin-ltd/activity-providers-livestream-guide.git
+  cd ..
 }
 
 function deployCopy {
@@ -32,7 +33,7 @@ function deployCopy {
   cd ..
 
   # Regenerate Beta file only
-  cp -r original/* bookwhen
+  cp -r original/activity-providers-livestream-guide/* out/activity-providers-livestream-guide-$1
 
   cd out
 
