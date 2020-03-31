@@ -21,8 +21,7 @@ function deployCopy {
 
   # go to the out directory and create a *new* Git repo
   cd out
-  git clone https://${GH_TOKEN}@github.com/imin-ltd/activity-providers-livestream-guide.git
-  git checkout $1
+  git clone https://${GH_TOKEN}@github.com/imin-ltd/activity-providers-livestream-guide-$1.git
 
   # inside this git repo we'll pretend to be a new user
   git config user.name "Travis CI"
