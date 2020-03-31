@@ -35,7 +35,7 @@ function deployCopy {
   # Regenerate Beta file only
   cp -r original/activity-providers-livestream-guide/* out/activity-providers-livestream-guide-$1
 
-  cd out
+  cd out/activity-providers-livestream-guide-$1
 
   # The first and only commit to this new Git repo contains all the
   # files present with the commit message "Deploy to GitHub Pages".
@@ -50,7 +50,7 @@ function deployCopy {
   # FIXME should be authorised via key
   git push --quiet
 
-  cd ..
+  cd ../..
 }
 
 getLatest
