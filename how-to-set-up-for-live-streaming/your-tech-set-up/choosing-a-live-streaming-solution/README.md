@@ -45,10 +45,6 @@ Here's an overview of the main options, with further detail available in this se
 * You can't see or hear your participants, so if your classes usually involve feedback, adjustments, etc. then Facebook Live isn't ideal for you.
 * You can receive Facebook messages and reactions, but this may distract you during the class.
 
-{% page-ref page="using-zoom.md" %}
-
-
-
 {% endtab %}
 
 {% tab title="Instagram Live" %}
@@ -75,6 +71,8 @@ Here's an overview of the main options, with further detail available in this se
 
 {% endtab %}
 {% endtabs %}
+
+{% page-ref page="using-zoom.md" %}
 
 {% page-ref page="using-facebook-live.md" %}
 
