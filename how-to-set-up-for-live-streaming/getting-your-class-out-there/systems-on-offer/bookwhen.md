@@ -9,7 +9,7 @@ description: >-
 ![](../../../.gitbook/assets/full_logo_1040_200_border.png)
 
 {% hint style="info" %}
-**🖥 [https://bookwhen.com](https://bookwhen.com) **
+🖥 [**https://bookwhen.com**](https://bookwhen.com)
 
 **📨 support@bookwhen.com**
 {% endhint %}
