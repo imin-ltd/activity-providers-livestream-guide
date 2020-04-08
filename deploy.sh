@@ -28,7 +28,7 @@ function deployCopy {
   git config user.name "Travis CI"
   git config user.email "travis@openactive.org"
 
-  rm -rf .
+  rm -rf
   rm -rf .gitbook/assets
 
   cd ..
