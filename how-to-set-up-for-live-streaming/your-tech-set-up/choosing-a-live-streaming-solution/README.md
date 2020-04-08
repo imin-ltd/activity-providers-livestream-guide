@@ -21,9 +21,7 @@ There are a few options to choose from and it’s important to make sure you are
 Here's an overview of the main options, with further detail available in this section. Each option is fairly simple to set up and use, so take a look and pick the one that works best for you.
 
 {% tabs %}
-
-
-
+{% tab title="Zoom" %}
 **Best for:**
 
 * Large or small interactive classes, where you want to see and hear from participants.
@@ -34,9 +32,9 @@ Here's an overview of the main options, with further detail available in this se
 * There is a free option \(limited to 40 mins per broadcast without a recording option\). The paid for plan starts at £11.99.
 
 {% page-ref page="using-zoom.md" %}
+{% endtab %}
 
-
-
+{% tab title="Facebook Live" %}
 **Best for:**
 
 * Connecting with your existing followers and other potential participants on Facebook.
@@ -48,9 +46,9 @@ Here's an overview of the main options, with further detail available in this se
 * You can receive Facebook messages and reactions, but this may distract you during the class.
 
 {% page-ref page="using-facebook-live.md" %}
+{% endtab %}
 
-
-
+{% tab title="Instagram Live" %}
 **Best for:**
 
 * Connecting with your existing followers and other potential participants on Instagram.
@@ -62,7 +60,9 @@ Here's an overview of the main options, with further detail available in this se
 * Also, unlike with Facebook Live, Instagram Live videos disappear from your profile after 24 hours, so participants can't watch them easily later.
 
 {% page-ref page="using-instagram-live.md" %}
+{% endtab %}
 
+{% tab title="YouTube Live" %}
 **Best for:**
 
 * Can be publicly or privately shared, so potentially suitable for both free and paid-for classes.
@@ -72,4 +72,6 @@ Here's an overview of the main options, with further detail available in this se
 * To broadcast from a mobile, you'll need to have at least 1,000 subscribers, but you can stream from a webcam without restrictions. You might also have to wait a little while \(24 hours\) when you first try to broadcast for your account to be verified by YouTube.
 
 {% page-ref page="using-youtube-live.md" %}
+{% endtab %}
+{% endtabs %}
 
