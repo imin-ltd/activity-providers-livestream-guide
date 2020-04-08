@@ -35,7 +35,7 @@
 * [🤗 The big welcome](before-your-start-live-streaming/untitled.md)
 * [👟 Put yourself in their exercise shoes](before-your-start-live-streaming/put-yourself-in-their-exercise-shoes.md)
 
-## During your lived streamed class <a id="during-your-live-streaming-class"></a>
+## During your live streamed class <a id="during-your-live-streaming-class"></a>
 
 * [🗣 Keep on talking](during-your-live-streaming-class/keep-on-talking.md)
 * [🤔 Other things to consider](during-your-live-streaming-class/other-things-to-consider.md)
