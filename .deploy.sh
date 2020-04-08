@@ -28,8 +28,8 @@ function deployCopy {
   git config user.name "Travis CI"
   git config user.email "travis@openactive.org"
 
-  rm -rf
-  rm -rf .gitbook/assets
+  rm -rf activity-providers-livestream-guide-$1/*
+  rm -rf activity-providers-livestream-guide-$1/.gitbook/assets/*
 
   cd ..
 
